@@ -94,7 +94,6 @@
 
 - [Othentic](https://www.othentic.xyz/)
 
-
 #### 🔋 Operators
 
 - [Operator Guides](https://docs.eigenlayer.xyz/eigenlayer/operator-guides/operator-introduction)
