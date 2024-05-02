@@ -69,6 +69,12 @@
 - [Boys Club Ep 127: What is EigenLayer?](https://open.spotify.com/episode/2aR83WBag0pj0ldRRm2vZD)
 - [Restaking and MEV: Mycelial Networks at the root of the Dark Forest - Sreeram Kannan](https://www.youtube.com/watch?v=zTPKnKsfxek)
 
+
+### 📊 Data & Analytics
+
+- [EigenExplorer API](https://docs.eigenexplorer.com/api-reference/introduction)
+
+
 ## AVS
 
 - [AVS development](#🔨-avs-development)
@@ -87,6 +93,7 @@
 #### AVS Services
 
 - [Othentic](https://www.othentic.xyz/)
+
 
 #### 🔋 Operators
 
