@@ -87,6 +87,7 @@
 - [Incredible Squaring AVS](https://github.com/Layr-Labs/incredible-squaring-avs)
   - [Overall walkthrough](https://www.loom.com/share/50314b3ec0f34e2ba386d45724602d76?sid=cf176400-fdbb-4bdc-8563-22a68414985d)
   - [Task Manager walkthrough](https://www.loom.com/share/5f3f2a447bc54ffa9d37d203c32088de?sid=0f5c2c07-82c5-4640-bc6f-6e4327bb3d81)
+  - [Deconstructing the Incredible Squaring AVS](https://0xpanicerror.substack.com/p/deconstructing-the-incredible-squaring)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK](https://github.com/Layr-Labs/eigensdk-go)
 
