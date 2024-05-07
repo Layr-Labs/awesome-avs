@@ -114,7 +114,7 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
     - [Operator onboarding doc](https://alt-research.notion.site/AltLayer-MACH-Operator-Onboarding-Guide-ed00bc7f43c647b3afd085d95fd67792)
     - [Operator intake link](https://docs.google.com/forms/d/e/1FAIpQLSfw1sOr0nKWqkEOrj9bFUnON8lI8Z1XKtxxaXTZP9joQcBHkA/viewform)
 - [Automata Multi-Prover](https://www.ata.network/)
-  - Enables decentralized systems (rollups, coprocessors, L2s) to utilize the TEE Prover as a secondary proving mechanism. 
+  - Decentralized systems bootstrap a secondary TEE Prover to minimize network-breaking bugs and achieve better security and decentralization. This rigorous approach is augmented by the introduction of TEE Committees, with the Multi-Prover AVS dually bound by machine trust and cryptoeconomic security. 
   - [Docs](https://docs.ata.network/)
   - [Repo](https://github.com/automata-network/multi-prover-avs/tree/main)
   - [Operator onboarding doc](https://atanetwork.notion.site/Automata-Multi-Prover-AVS-Mainnet-Operator-Guide-c97ce084638e47038a00123946045859)
