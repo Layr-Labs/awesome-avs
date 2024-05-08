@@ -38,6 +38,7 @@
 #### 🔍 Research
 
 - [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)
+- [EIGEN: The Universal Intersubjective Work Token Whitepaper](https://docs.eigenlayer.xyz/assets/files/EIGEN_Token_Whitepaper-0df8e17b7efa052fd2a22e1ade9c6f69.pdf)
 - [StakeSure: Proof of Stake Mechanisms with Strong Cryptoeconomic Safety](https://arxiv.org/abs/2401.05797)
 - [EigenLayer Research Forum](https://research.eigenlayer.xyz/)
 - [EigenLayer Ecosystem Unraveled](https://unsworth.substack.com/p/eigenlayer-ecosystem-unraveled)
