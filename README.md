@@ -64,6 +64,7 @@
 
 - [EigenLayer YouTube Playlist](https://www.youtube.com/playlist?list=PL9sM6KtdZxrXMgMq4aBHaRnWaXlcJTiVj)
 - [EigenLayer Explained: What is Restaking?](https://www.youtube.com/watch?v=5r0SooSQFJg)
+- [Building the Verifiable Cloud](https://www.youtube.com/watch?v=ZhHeicaaO3o)
 - [Converging Cosmos & Ethereum: A Restaking & Shared Security Deep Dive](https://www.youtube.com/watch?v=auDGJXsfvJ4)
 - [You Could've Invented EigenLayer](https://www.youtube.com/watch?v=fCl_PucMytU)
 - [Unchained Podcast EigenLayer interview ](https://www.youtube.com/watch?v=16p7YG8S3ec)
