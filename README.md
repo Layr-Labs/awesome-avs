@@ -92,6 +92,7 @@
   - [Deconstructing the Incredible Squaring AVS](https://0xpanicerror.substack.com/p/deconstructing-the-incredible-squaring)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK](https://github.com/Layr-Labs/eigensdk-go)
+- [Rust SDK](https://github.com/supernovahs/eigensdk-rs)
 
 #### AVS Services
 
