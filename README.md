@@ -91,7 +91,8 @@
   - [Task Manager walkthrough](https://www.loom.com/share/5f3f2a447bc54ffa9d37d203c32088de?sid=0f5c2c07-82c5-4640-bc6f-6e4327bb3d81)
   - [Deconstructing the Incredible Squaring AVS](https://0xpanicerror.substack.com/p/deconstructing-the-incredible-squaring)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
-- [Go SDK](https://github.com/Layr-Labs/eigensdk-go)
+- [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
+- [Rust SDK (unofficial)](https://github.com/supernovahs/eigensdk-rs)
 
 #### AVS Services
 
