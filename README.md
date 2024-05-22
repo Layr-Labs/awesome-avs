@@ -39,6 +39,7 @@
 
 - [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)
 - [EIGEN: The Universal Intersubjective Work Token Whitepaper](https://docs.eigenlayer.xyz/assets/files/EIGEN_Token_Whitepaper-0df8e17b7efa052fd2a22e1ade9c6f69.pdf)
+- [The Cryptoeconomics of Slashing - a16z Crypto](https://a16zcrypto.com/posts/article/the-cryptoeconomics-of-slashing/)
 - [StakeSure: Proof of Stake Mechanisms with Strong Cryptoeconomic Safety](https://arxiv.org/abs/2401.05797)
 - [EigenLayer Research Forum](https://research.eigenlayer.xyz/)
 - [EigenLayer Ecosystem Unraveled](https://unsworth.substack.com/p/eigenlayer-ecosystem-unraveled)
@@ -65,7 +66,7 @@
 - [EigenLayer YouTube Playlist](https://www.youtube.com/playlist?list=PL9sM6KtdZxrXMgMq4aBHaRnWaXlcJTiVj)
 - [EIGEN: The Universal Intersubjective Work Token - Soubhik Deb @ Research Day](https://www.youtube.com/watch?v=n0hE8-fAQKA)
 - [EigenLayer Explained: What is Restaking?](https://www.youtube.com/watch?v=5r0SooSQFJg)
-- [Building the Verifiable Cloud](https://www.youtube.com/watch?v=ZhHeicaaO3o)
+- [Building the Verifiable Cloud - Sreeram Kannan](https://www.youtube.com/watch?v=ZhHeicaaO3o)
 - [Converging Cosmos & Ethereum: A Restaking & Shared Security Deep Dive](https://www.youtube.com/watch?v=auDGJXsfvJ4)
 - [You Could've Invented EigenLayer](https://www.youtube.com/watch?v=fCl_PucMytU)
 - [Unchained Podcast EigenLayer interview ](https://www.youtube.com/watch?v=16p7YG8S3ec)
