@@ -63,6 +63,7 @@
 ### 🎥 Videos & Podcasts
 
 - [EigenLayer YouTube Playlist](https://www.youtube.com/playlist?list=PL9sM6KtdZxrXMgMq4aBHaRnWaXlcJTiVj)
+- [EIGEN: The Universal Intersubjective Work Token - Soubhik Deb @ Research Day](https://www.youtube.com/watch?v=n0hE8-fAQKA)
 - [EigenLayer Explained: What is Restaking?](https://www.youtube.com/watch?v=5r0SooSQFJg)
 - [Building the Verifiable Cloud](https://www.youtube.com/watch?v=ZhHeicaaO3o)
 - [Converging Cosmos & Ethereum: A Restaking & Shared Security Deep Dive](https://www.youtube.com/watch?v=auDGJXsfvJ4)
