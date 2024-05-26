@@ -152,6 +152,7 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - Cross-chain state committees provide a more secure alternative to isolated k of n bridges for applications that require trustless cross-chain states.
   - [Docs](https://lagrange-labs.gitbook.io/lagrange-v2-1)
   - [Repo](https://github.com/Lagrange-Labs/lagrange-node)
+  - [Smart Contracts](https://github.com/Lagrange-Labs/lagrange-contracts)
   - [Operator intake link](https://forms.gle/ihK4vbFaEXeBsH9e6)
 - [Witness Chain Watchtowers](https://docs.witnesschain.com/)
   - Diligence watchtowers are the first line of defense for optimistic rollups. They enable incentive compatible and crypto-economically-secure Proof-of-Diligence (PoD) to make sure watchtowers are working in the happy path for optimistic rollups.
