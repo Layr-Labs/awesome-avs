@@ -73,6 +73,11 @@
 - [Boys Club Ep 127: What is EigenLayer?](https://open.spotify.com/episode/2aR83WBag0pj0ldRRm2vZD)
 - [Restaking and MEV: Mycelial Networks at the root of the Dark Forest - Sreeram Kannan](https://www.youtube.com/watch?v=zTPKnKsfxek)
 
+#### Developer Series
+- [AVS Deep Dives](https://www.youtube.com/playlist?list=PL9sM6KtdZxrXrYF7Hf97M6QtUzk8iM2Uv)
+- [AVS Protocol R&D Office Hours](https://www.youtube.com/playlist?list=PL9sM6KtdZxrWqpsLIytswB-RIsz3vYMJD)
+- [Infinite Layers](https://www.youtube.com/playlist?list=PL9sM6KtdZxrU7Z4ytEpAtmoEmLXLL-Tdz)
+
 
 ### 📊 Data & Analytics
 
