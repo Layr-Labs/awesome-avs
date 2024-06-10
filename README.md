@@ -148,18 +148,20 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [Gasp](https://www.gasp.xyz/)
   - Native to native cross-rollup swaps
   - [Repo](https://github.com/mangata-finance/eigen-layer-monorepo)
-- [Omni Network](https://omni.network/)
-  - A low latency interoperability network that connects all Ethereum rollups
-  - [Docs](https://docs.omni.network/learn/introduction/omni)
-  - [Whitepaper](https://docs.omni.network/whitepaper.pdf)
-  - [Repo](https://github.com/omni-network/omni)
-  - [Operator intake link](https://forms.gle/BfTKgLT2Tsg4YF9JA)
 - [Lagrange](https://www.lagrange.dev/)
   - Cross-chain state committees provide a more secure alternative to isolated k of n bridges for applications that require trustless cross-chain states.
   - [Docs](https://lagrange-labs.gitbook.io/lagrange-v2-1)
   - [Repo](https://github.com/Lagrange-Labs/lagrange-node)
   - [Smart Contracts](https://github.com/Lagrange-Labs/lagrange-contracts)
   - [Operator intake link](https://forms.gle/ihK4vbFaEXeBsH9e6)
+- [Omni Network](https://omni.network/)
+  - A low latency interoperability network that connects all Ethereum rollups
+  - [Docs](https://docs.omni.network/learn/introduction/omni)
+  - [Whitepaper](https://docs.omni.network/whitepaper.pdf)
+  - [Repo](https://github.com/omni-network/omni)
+  - [Operator intake link](https://forms.gle/BfTKgLT2Tsg4YF9JA)
+- [Pinception](https://github.com/wesfloyd/pinception)
+  - Decentralized IPFS Pinning Service Built on EigenLayer. 	
 - [Witness Chain Watchtowers](https://docs.witnesschain.com/)
   - Diligence watchtowers are the first line of defense for optimistic rollups. They enable incentive compatible and crypto-economically-secure Proof-of-Diligence (PoD) to make sure watchtowers are working in the happy path for optimistic rollups.
   - [Docs](https://docs.witnesschain.com/diligence-watchtowers/watchtower-protocol-version-2/how-it-works)
