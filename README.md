@@ -67,6 +67,7 @@
 - [EIGEN: The Universal Intersubjective Work Token - Soubhik Deb @ Research Day](https://www.youtube.com/watch?v=n0hE8-fAQKA)
 - [EigenLayer Explained: What is Restaking?](https://www.youtube.com/watch?v=5r0SooSQFJg)
 - [Building the Verifiable Cloud - Sreeram Kannan](https://www.youtube.com/watch?v=ZhHeicaaO3o)
+- [StakeSure - Proof of Stake Mechanisms with Strong Cryptoeconomic Safety](https://www.youtube.com/watch?v=UeZIxcLaH00)
 - [Converging Cosmos & Ethereum: A Restaking & Shared Security Deep Dive](https://www.youtube.com/watch?v=auDGJXsfvJ4)
 - [You Could've Invented EigenLayer](https://www.youtube.com/watch?v=fCl_PucMytU)
 - [Unchained Podcast EigenLayer interview ](https://www.youtube.com/watch?v=16p7YG8S3ec)
