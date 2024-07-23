@@ -142,8 +142,8 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [Eigen Bridge](https://github.com/idatsy/eigen-bridge)
 - [EigenDA](https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md#an-eigenlayer-avs-for-da)
   - A data availability store made by Eigen Labs and built on top of EigenLayer
-- [Eigen Market Maker](https://t.co/sQNSvd0UaD)
-- [EigenRPC](https://t.co/ZUFn8LNTbO)
+- [Eigen Market Maker](https://github.com/standardweb3/standard-avs-marketmaker)
+- [EigenRPC](https://github.com/Othentic-Labs/eigen-rpc/)
 - [Eoracle](https://www.eoracle.io/)
   - A programmable data Oracle that extends Ethereum Proof of Stake to connect smart contracts with real-world data.
   - [Docs](https://eoracle.gitbook.io/eoracle)
