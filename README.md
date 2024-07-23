@@ -99,6 +99,8 @@
   - [Overall walkthrough](https://www.loom.com/share/50314b3ec0f34e2ba386d45724602d76?sid=cf176400-fdbb-4bdc-8563-22a68414985d)
   - [Task Manager walkthrough](https://www.loom.com/share/5f3f2a447bc54ffa9d37d203c32088de?sid=0f5c2c07-82c5-4640-bc6f-6e4327bb3d81)
   - [Deconstructing the Incredible Squaring AVS](https://0xpanicerror.substack.com/p/deconstructing-the-incredible-squaring)
+  - [Incredible Squaring Python](https://github.com/zellular-xyz/incredible-squaring-avs-python)
+  - [Incredible Squaring TypeScript](https://github.com/zellular-xyz/incredible-squaring-avs-js)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
 - [Rust SDK (unofficial)](https://github.com/supernovahs/eigensdk-rs)
@@ -135,8 +137,13 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - A smart ZK coprocessor that empowers smart contracts to read from and utilize the full historical on-chain data from any chain, and run customizable computations to power use cases such as data-driven DeFi, zkBridge, ZK identity and more. 
   - [coprocessor repo](https://github.com/brevis-network/brevis-avs)
   - [Operator intake link](https://form.typeform.com/to/M4LT46SY)
+- [Code4Arena](https://github.com/amateur-dev/avs-microhack)
+- [CosmoAVS](https://github.com/hack3r-0m/cosmoavs)
+- [Eigen Bridge](https://github.com/idatsy/eigen-bridge)
 - [EigenDA](https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md#an-eigenlayer-avs-for-da)
   - A data availability store made by Eigen Labs and built on top of EigenLayer
+- [Eigen Market Maker](https://github.com/standardweb3/standard-avs-marketmaker)
+- [EigenRPC](https://github.com/Othentic-Labs/eigen-rpc/)
 - [Eoracle](https://www.eoracle.io/)
   - A programmable data Oracle that extends Ethereum Proof of Stake to connect smart contracts with real-world data.
   - [Docs](https://eoracle.gitbook.io/eoracle)
@@ -148,6 +155,7 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [Gasp](https://www.gasp.xyz/)
   - Native to native cross-rollup swaps
   - [Repo](https://github.com/mangata-finance/eigen-layer-monorepo)
+- [Keeper Network](https://github.com/Keeper-network-2/keeper)
 - [Lagrange](https://www.lagrange.dev/)
   - Cross-chain state committees provide a more secure alternative to isolated k of n bridges for applications that require trustless cross-chain states.
   - [Docs](https://lagrange-labs.gitbook.io/lagrange-v2-1)
@@ -162,12 +170,15 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - [Operator intake link](https://forms.gle/BfTKgLT2Tsg4YF9JA)
 - [Pinception](https://github.com/wesfloyd/pinception)
   - Decentralized IPFS Pinning Service Built on EigenLayer. 	
+- [Point Guard](https://github.com/yieldnest/point-guard)
+- [Solera Stablecoin](https://github.com/SoleraFinance/solera-avs-hackathon)
 - [Witness Chain Watchtowers](https://docs.witnesschain.com/)
   - Diligence watchtowers are the first line of defense for optimistic rollups. They enable incentive compatible and crypto-economically-secure Proof-of-Diligence (PoD) to make sure watchtowers are working in the happy path for optimistic rollups.
   - [Docs](https://docs.witnesschain.com/diligence-watchtowers/watchtower-protocol-version-2/how-it-works)
   - [Repo](https://github.com/witnesschain-com/diligencewatchtower-contracts)
   - [Architecture](https://docs.witnesschain.com/diligence-watchtowers/watchtower-protocol-version-2/watchtower-architecture)
   - [Operator intake link](https://discord.gg/ZwdnTBAtqV)
+- [Zarathustra](https://github.com/hooperben/eigen-hackathon)
 
 ### 👥 Community
 
