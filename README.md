@@ -21,10 +21,10 @@
 
 ## EigenLayer
 
-- [Reading material](#📖-reading-material)
-- [Videos & podcasts](#🎥-videos--podcasts)
+- [Reading material](#reading-material)
+- [Videos & podcasts](#videos--podcasts)
 
-### 📖 Reading material
+### Reading material
 
 #### Intro
 
@@ -35,7 +35,7 @@
 - [Dual Staking](https://www.blog.eigenlayer.xyz/dual-staking/)
 
 
-#### 🔍 Research
+#### Research
 
 - [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)
 - [EIGEN: The Universal Intersubjective Work Token Whitepaper](https://docs.eigenlayer.xyz/assets/files/EIGEN_Token_Whitepaper-0df8e17b7efa052fd2a22e1ade9c6f69.pdf)
@@ -48,7 +48,7 @@
 - [Censorship-Resistance with Restaking](https://www.blog.eigenlayer.xyz/censorship-resistance-with-restaking/)
 - [SAKSHI: Decentralized AI Platforms](https://arxiv.org/abs/2307.16562)
 
-#### 🧵 Threads & Posts
+#### Threads & Posts
 
 - General
   - [Shared Security: The Four Superpowers](https://twitter.com/sreeramkannan/status/1742949397523304600)
@@ -61,7 +61,9 @@
   - [Eoracle: The problem with the problem](https://twitter.com/eoracle_network/status/1778478375868199041)
 
 
-### 🎥 Videos & Podcasts
+### Videos & Podcasts
+
+#### General
 
 - [EigenLayer YouTube Playlist](https://www.youtube.com/playlist?list=PL9sM6KtdZxrXMgMq4aBHaRnWaXlcJTiVj)
 - [EIGEN: The Universal Intersubjective Work Token - Soubhik Deb @ Research Day](https://www.youtube.com/watch?v=n0hE8-fAQKA)
@@ -80,18 +82,18 @@
 - [Infinite Layers](https://www.youtube.com/playlist?list=PL9sM6KtdZxrU7Z4ytEpAtmoEmLXLL-Tdz)
 
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 - [EigenExplorer API](https://docs.eigenexplorer.com/api-reference/introduction)
 
 
 ## AVS
 
-- [AVS development](#🔨-avs-development)
-- [AVS projects](#⚙️-avss)
-- [Community](#👥-community)
+- [AVS development](#avs-development)
+- [AVS projects and reference architectures](#avss)
+- [Community](#community)
 
-### 🔨 AVS development
+### AVS development
 
 - [AVS Developer Guide](https://docs.eigenlayer.xyz/eigenlayer/avs-guides/avs-developer-guide)
 - [Hello World AVS](https://github.com/Layr-Labs/hello-world-avs)
@@ -109,13 +111,13 @@
 
 - [Othentic](https://www.othentic.xyz/)
 
-#### 🔋 Operators
+#### Operators
 
 - [Operator Guides](https://docs.eigenlayer.xyz/eigenlayer/operator-guides/operator-introduction)
 - [Operator Setup](https://github.com/Layr-Labs/eigenda-operator-setup)
 
 
-### ⚙️ AVSs
+### AVSs
 
 This is by no means an exhaustive list or an endorsement. It's a set of projects across different categories (oracles, interop networks, data availability, etc) that demonstrate different use cases for restaking and highlight various design choices that developers have made in their AVS development.
 
@@ -180,13 +182,15 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - [Operator intake link](https://discord.gg/ZwdnTBAtqV)
 - [Zarathustra](https://github.com/hooperben/eigen-hackathon)
 
-### 👥 Community
+### Community
 
 - [Discord](https://discord.gg/eigenlayer)
 - [Ecosystem](https://www.eigenlayer.xyz/ecosystem?category=AVS%2CRollup%2COperator)
 - [Programmable Trust Telegram](https://t.me/c/1931115481/1)
+- [Infinite Hackathon](https://docs.eigenlayer.xyz/eigenlayer/resources/infinite-hackathon)
+- [Join EigenLayer Hacker Group Chat](https://airtable.com/appnYZo360sWuEYLS/shrz6Pstds7EXjC5N)
 
-## ♾️ EigenDA
+## EigenDA
 
 ### EigenDA Educational resources
 
