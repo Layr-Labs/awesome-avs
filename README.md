@@ -95,6 +95,7 @@
 
 ### AVS development
 
+- [AVS Book](https://avs.eigenlayer.xyz/)
 - [AVS Developer Guide](https://docs.eigenlayer.xyz/eigenlayer/avs-guides/avs-developer-guide)
 - [Hello World AVS](https://github.com/Layr-Labs/hello-world-avs)
 - [Incredible Squaring AVS](https://github.com/Layr-Labs/incredible-squaring-avs)
