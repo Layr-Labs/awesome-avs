@@ -106,7 +106,7 @@
   - [Incredible Squaring TypeScript](https://github.com/zellular-xyz/incredible-squaring-avs-js)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
-- [Rust SDK (official)](https://github.com/layr-labs/eigensdk-rs)
+- [Rust SDK (official, Alpha)](https://github.com/layr-labs/eigensdk-rs)
 
 #### AVS Services
 
