@@ -182,6 +182,10 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - [Architecture](https://docs.witnesschain.com/diligence-watchtowers/watchtower-protocol-version-2/watchtower-architecture)
   - [Operator intake link](https://discord.gg/ZwdnTBAtqV)
 - [Zarathustra](https://github.com/hooperben/eigen-hackathon)
+- [Skate](https://skatechain.org/)
+  - The only universal application layer that empowers apps to run on 1000s of chains with one state.
+  - [Repo](https://github.com/Skate-Org/AVS)
+  - [Docs](https://docs.skatechain.org/)
 
 ### Community
 
