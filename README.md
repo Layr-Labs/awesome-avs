@@ -104,13 +104,17 @@
   - [Deconstructing the Incredible Squaring AVS](https://0xpanicerror.substack.com/p/deconstructing-the-incredible-squaring)
   - [Incredible Squaring Python](https://github.com/zellular-xyz/incredible-squaring-avs-python)
   - [Incredible Squaring TypeScript](https://github.com/zellular-xyz/incredible-squaring-avs-js)
+  - [Incredible Squaring AVS in Rust](https://github.com/webb-tools/eigensdk-rs/tree/main/avs/incredible-squaring-avs)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
 - [Rust SDK (official, Alpha)](https://github.com/layr-labs/eigensdk-rs)
+- [Rust SDK (unofficial, Alpha)](https://github.com/webb-tools/eigensdk-rs)
+- [Webb's Gadget SDK](https://github.com/webb-tools/gadget)
 
 #### AVS Services
 
 - [Othentic](https://www.othentic.xyz/)
+- [Webb](https://webb.tools)
 
 #### Operators
 
@@ -186,6 +190,12 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - The only universal application layer that empowers apps to run on 1000s of chains with one state.
   - [Repo](https://github.com/Skate-Org/AVS)
   - [Docs](https://docs.skatechain.org/)
+- [Tangle Network](https://tangle.tools)
+  - Restaking infrastructure for reusable crypto and cloud computations.
+  - [Repo](https://github.com/webb-tools/tangle)
+  - [Docs](https://docs.tangle.tools)
+  - [AVS](https://github.com/webb-tools/eigensdk-rs/tree/main/avs/tangle-avs)
+  - [Tangle Blueprints](https://docs.tangle.tools/developers/blueprints)
 
 ### Community
 
