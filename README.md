@@ -34,7 +34,6 @@
 - [The Three Dimensions of Programmable Trust](https://www.blog.eigenlayer.xyz/the-three-dimensions-of-programmable-trust/)
 - [Dual Staking](https://www.blog.eigenlayer.xyz/dual-staking/)
 
-
 #### Research
 
 - [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)
@@ -60,7 +59,6 @@
   - [Lagrange's Proving Network & ZK Coprocessor by Redacted Research](https://twitter.com/redactedres/status/1781659039975309575)
   - [Eoracle: The problem with the problem](https://twitter.com/eoracle_network/status/1778478375868199041)
 
-
 ### Videos & Podcasts
 
 #### General
@@ -75,17 +73,29 @@
 - [Unchained Podcast EigenLayer interview ](https://www.youtube.com/watch?v=16p7YG8S3ec)
 - [Boys Club Ep 127: What is EigenLayer?](https://open.spotify.com/episode/2aR83WBag0pj0ldRRm2vZD)
 - [Restaking and MEV: Mycelial Networks at the root of the Dark Forest - Sreeram Kannan](https://www.youtube.com/watch?v=zTPKnKsfxek)
+- [EigenLayer in 4 minutes](https://x.com/dabit3/status/1829153823673233735)
+- [SBC'24 - Strong Cryptoeconomic Security for Arbitrary Validation Tasks by Sreeram Kannan](https://www.youtube.com/watch?v=YSuG2kXjLNA&sttick=0)
+- [Apps with Commitments | Sreeram Kannan | MegaZu 2024](https://www.youtube.com/watch?v=YRIYgujOLDo)
 
 #### Developer Series
 - [AVS Deep Dives](https://www.youtube.com/playlist?list=PL9sM6KtdZxrXrYF7Hf97M6QtUzk8iM2Uv)
 - [AVS Protocol R&D Office Hours](https://www.youtube.com/playlist?list=PL9sM6KtdZxrWqpsLIytswB-RIsz3vYMJD)
 - [Infinite Layers](https://www.youtube.com/playlist?list=PL9sM6KtdZxrU7Z4ytEpAtmoEmLXLL-Tdz)
+- [Coordinated Podcast](https://x.com/0xcoordinated)
+- [EigenLayer Unlocked via Rollup Podcast](https://www.youtube.com/playlist?list=PLT6WMYRb-Et4FoDlrohlWhHCZyHMerV6T)
 
-
-### Data & Analytics
+### Data, Analytics, Dashboards
 
 - [EigenExplorer API](https://docs.eigenexplorer.com/api-reference/introduction)
-
+- [EigenExplorer Dashboard](https://dashboard.eigenexplorer.com/)
+- [EigenLayer Economy (maintained by Eigen Labs)](https://economy.eigenlayer.xyz/)
+- [Dune EigenLayer API](https://docs.dune.com/api-reference/eigenlayer/introduction)
+- [Ultimate Restaking Dashboard](https://dune.com/hahahash/eigenlayer)
+- [AVS Dune Dashboard](https://dune.com/hahahash/avs)
+- [Validator.info](https://validator.info/eigenlayer)
+- [Restaking.info by Nethermind](https://restaking.info/)
+- [OpenBlock EigenLayer Restaking Insights](https://app.openblocklabs.com/app/restaking/eigenlayer)
+- [EigenLayer Dashboard by DAIC](https://daic.capital/projects/eigenlayer)
 
 ## AVS
 
@@ -109,18 +119,19 @@
 - [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
 - [Rust SDK (official, Alpha)](https://github.com/layr-labs/eigensdk-rs)
 - [Rust SDK (unofficial, Alpha)](https://github.com/webb-tools/eigensdk-rs)
-- [Webb's Gadget SDK](https://github.com/webb-tools/gadget)
+- [Build Your Own AVS on EigenLayer Tutorial](https://www.youtube.com/watch?v=XjraoZtpuKk)
 
-#### AVS Services
+#### AVS Tooling and Services
 
 - [Othentic](https://www.othentic.xyz/)
-- [Webb](https://webb.tools)
+- [Layer](https://layer.xyz/)
+- [AltLayer Wizard](https://wizard.altlayer.io/)
+- [Tangle Network Gadget SDK](https://github.com/webb-tools/gadget)
 
 #### Operators
 
 - [Operator Guides](https://docs.eigenlayer.xyz/eigenlayer/operator-guides/operator-introduction)
 - [Operator Setup](https://github.com/Layr-Labs/eigenda-operator-setup)
-
 
 ### AVSs
 
@@ -162,6 +173,8 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [Gasp](https://www.gasp.xyz/)
   - Native to native cross-rollup swaps
   - [Repo](https://github.com/mangata-finance/eigen-layer-monorepo)
+- [Infura](https://consensys.io/blog/infura-decentralized-infrastructure-network-launches-as-eigenlayer-avs)
+  - Decentralized Infrastructure Network 
 - [Keeper Network](https://github.com/Keeper-network-2/keeper)
 - [Lagrange](https://www.lagrange.dev/)
   - Cross-chain state committees provide a more secure alternative to isolated k of n bridges for applications that require trustless cross-chain states.
@@ -169,6 +182,8 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
   - [Repo](https://github.com/Lagrange-Labs/lagrange-node)
   - [Smart Contracts](https://github.com/Lagrange-Labs/lagrange-contracts)
   - [Operator intake link](https://forms.gle/ihK4vbFaEXeBsH9e6)
+- [Layer Zero](https://www.blog.eigenlayer.xyz/dvn/)
+  - CryptoEconomic DVN Framework
 - [Omni Network](https://omni.network/)
   - A low latency interoperability network that connects all Ethereum rollups
   - [Docs](https://docs.omni.network/learn/introduction/omni)
@@ -210,6 +225,7 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 ### EigenDA Educational resources
 
 - [EigenDA Spec](https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md)
+- [HyperScaling Ethereum: 4844, DankSharding & EigenDA](https://www.youtube.com/watch?v=sAnQhLrVm_4)
 - [Intro to EigenDA: Hyperscale Data Availability for Rollups](https://www.blog.eigenlayer.xyz/intro-to-eigenda-hyperscale-data-availability-for-rollups/)
 - [EigenDA: Hyperscale Data Availability for Rollups by Vyas Krishnan](https://www.youtube.com/watch?v=FJjL6P5NeHY)
 - [EigenDA: Converting Cloud to Crypto](https://www.youtube.com/watch?v=YDP6mvcxwdg)
@@ -228,10 +244,10 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [Mantle](https://www.mantle.xyz/)
 - [LayerN](https://www.layern.com/)
 - [MegaETH](https://twitter.com/megaeth_labs)
-- [Movement Labs](https://movementlabs.xyz/)
-- [Versatus](https://versatus.io/)
+- [Abstract](https://x.com/abstractchain)
 - [Cyber](https://cyber.co/)
 - [Polymer](https://www.polymerlabs.org/)
+- [Treasure](https://treasure.lol/)
 
 ### RaaS building on EigenDA
 
