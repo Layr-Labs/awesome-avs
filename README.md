@@ -2,7 +2,7 @@
     <p>	
 	    <a href="https://www.eigenlayer.xyz/">	
             <div>	
-	            <img src="https://assets-global.website-files.com/64053c5d931f167ecf5997be/6405771ffb64702144b3da4a_el-logo-p-800.png" width="180"  alt="EigenLayer">	
+	            <img src="banner.png" alt="EigenLayer">	
 		    </div>	
             <br>
 			    <b>✨ All things AVS development related, in one place ✨</b>	
