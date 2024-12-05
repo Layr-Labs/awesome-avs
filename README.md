@@ -46,12 +46,14 @@
 - [Ethresearch Forum](https://ethresear.ch/search?q=eigenlayer)
 - [Censorship-Resistance with Restaking](https://www.blog.eigenlayer.xyz/censorship-resistance-with-restaking/)
 - [SAKSHI: Decentralized AI Platforms](https://arxiv.org/abs/2307.16562)
+- [Revamping BLS: Optimize on-chain verification of arbitrary compute](https://www.othentic.xyz/post/revamping-bls)
 
 #### Threads & Posts
 
 - General
   - [Shared Security: The Four Superpowers](https://twitter.com/sreeramkannan/status/1742949397523304600)
   - [Cryptoeconomic coprocessors](https://x.com/sreeramkannan/status/1730310412904599714)
+  - [AI x AVS](https://x.com/0xOthentic/status/1863890369051562169)
 
 - Projects
   - [Fhenix coprocessor by @0xidanlevin](https://x.com/0xidanlevin/status/1775202649173864552?s=46&t=xmqhUBpjgozHUtjiL0xzhA)
@@ -115,6 +117,7 @@
   - [Incredible Squaring Python](https://github.com/zellular-xyz/incredible-squaring-avs-python)
   - [Incredible Squaring TypeScript](https://github.com/zellular-xyz/incredible-squaring-avs-js)
   - [Incredible Squaring AVS in Rust](https://github.com/webb-tools/eigensdk-rs/tree/main/avs/incredible-squaring-avs)
+- [Simple Price Oracle AVS](https://github.com/Othentic-Labs/simple-price-oracle-avs-example)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
 - [Rust SDK (official, Alpha)](https://github.com/layr-labs/eigensdk-rs)
@@ -231,6 +234,7 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [EigenDA: Converting Cloud to Crypto](https://www.youtube.com/watch?v=YDP6mvcxwdg)
 - [Origin of EigenDA](https://twitter.com/sreeramkannan/status/1741252007745528020)
 - [EigenDA Blog](https://www.blog.eigenlayer.xyz/tag/eigenda/)
+- [AVS example using EigenDA](https://github.com/Othentic-Labs/price-oracle-example-eigenda)
 
 ### EigenDA Codebases
 
