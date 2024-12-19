@@ -254,10 +254,35 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 
 ### RaaS building on EigenDA
 
+- [Abstract](https://abs.xyz)
+- [Airchains](https://www.airchains.io)
 - [AltLayer](https://altlayer.io/)
+- [Arbitrum Orbit](https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction)
 - [Caldera](https://caldera.xyz/)
 - [Conduit](https://conduit.xyz/)
+- [Cyber](https://cyber.co)
+- [DoDo](https://dodoex.io)
+- [Edgeless](https://www.edgeless.network)
+- [Fluent](https://fluent.xyz)
+- [Game7](https://game7.io)
 - [Gelato](https://www.gelato.network/raas)
+- [Layer N](https://www.n1.xyz)
+- [Mantle](https://www.mantle.xyz/)
+- [MegaETH](https://megaeth.systems)
+- [Mode](https://www.mode.network)
+- [Movement](https://movementlabs.xyz)
+- [Nodekit](https://www.nodekit.xyz)
+- [OP Stack](https://console.optimism.io)
+- [Polygon CDK](https://polygon.technology/polygon-cdk#)
+- [Polymer Labs](https://www.polymerlabs.org)
+- [Swell](https://app.swellnetwork.io/swellchain/launch)
+- [Treasure](https://treasure.lol)
+- [Vela](https://www.vela.exchange)
+- [Versatus](https://versatus.io)
+- [X Layer](https://www.okx.com)
+- [Xai](https://xai.games)
+- [Xterio](https://www.xter.io)
+- [Zeeve](https://www.zeeve.io)
 
 #### Contribution Guidline
 
