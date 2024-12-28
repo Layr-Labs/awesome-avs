@@ -259,6 +259,6 @@ This is by no means an exhaustive list or an endorsement. It's a set of projects
 - [Conduit](https://conduit.xyz/)
 - [Gelato](https://www.gelato.network/raas)
 
-#### Contribution Guidline
+#### Contribution Guideline
 
 Please read the [contribution guideline](contributing.md) if you want to contribute.
