@@ -6,7 +6,7 @@
 
 ## Adding to this list
 
-This list is focused on references to resources dedicated to researching and using restaking, as well as the design and development of AVSs. Please ensure your pull request adheres to the following guideline:
+This list is focused on references to resources dedicated to researching and using restaking, as well as the design and development of AVSs. Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the suggestion is useful before submitting. That implies it has enough content and every item has a good succinct description.
