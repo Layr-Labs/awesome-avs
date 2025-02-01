@@ -116,6 +116,7 @@
   - [Incredible Squaring Python](https://github.com/zellular-xyz/incredible-squaring-avs-python)
   - [Incredible Squaring TypeScript](https://github.com/zellular-xyz/incredible-squaring-avs-js)
   - [Incredible Squaring AVS in Rust](https://github.com/webb-tools/eigensdk-rs/tree/main/avs/incredible-squaring-avs)
+  - [Incredible Squaring AVS in Rust(official, Alpha)](https://github.com/Layr-Labs/incredible-squaring-avs-rs)
 - [Simple Price Oracle AVS](https://github.com/Othentic-Labs/simple-price-oracle-avs-example)
 - [AVS contracts](https://github.com/Layr-Labs/eigenlayer-middleware/tree/dev/docs#eigenlayer-middleware-docs)
 - [Go SDK (official)](https://github.com/Layr-Labs/eigensdk-go)
