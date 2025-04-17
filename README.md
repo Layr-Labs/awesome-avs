@@ -123,11 +123,12 @@
 - [Rust SDK (official, Alpha)](https://github.com/layr-labs/eigensdk-rs)
 - [Rust SDK (unofficial, Alpha)](https://github.com/webb-tools/eigensdk-rs)
 - [Build Your Own AVS on EigenLayer Tutorial](https://www.youtube.com/watch?v=XjraoZtpuKk)
+- [Vibe Code a Custom Sports Score Oracle in 14 Minutes from Scratch | Full EigenLayer Tutorial](https://www.youtube.com/watch?v=UEX3DfjTYvw)
 
 #### AVS Tooling and Services
 
 - [Othentic](https://www.othentic.xyz/)
-- [Layer](https://layer.xyz/)
+- [WAVS](https://docs.wavs.xyz/overview)
 - [AltLayer Wizard](https://wizard.altlayer.io/)
 - [Tangle Network Gadget SDK](https://github.com/webb-tools/gadget)
 
